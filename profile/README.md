@@ -1,4 +1,4 @@
-# Open Source Utility Satellite
+# OSUSat Satellite
 This organization is the home of all OSUSat hardware, software, libraries, and tooling.
 
 # Repository Structure
